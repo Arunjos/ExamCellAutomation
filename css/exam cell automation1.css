@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* page 2
+#background1z0z{width:1250px; height:799px; background-image:url(png/background-2.png); background-position:top center; margin: 0 auto;}
+#header1z0z{width:1250px; height:124px; float:left; background-image:url(png/header-1.png);}
+#cnt2zz0z{width:845px; height:587px; float:left; margin-left:206px; margin-top:54px; background-image:url(png/cnt2z.png);}
+#x1z0z{width:845px; height:66px; float:left;}
+#t1z0z{width:252px; height:66px; float:left; background-image:url(png/reg.png);}
+#lcnt1z0z{width:845px; height:48px; float:left; margin-top:30px;}
+#btnl1z0z{ margin-left:86px; width:286px; height:48px;}
+#bnz0z:hover{background-color:#03F;}
+#cntl1z0z{float:left; margin-left:223px; margin-top:19px; width:545px; height:379px; background-image:url(png/cntl1.png);}
+#cntl2z0z{float:left; width:515px; height:317px; margin-left:15px; margin-top:17px; text-align:center;}
+#zxzxc{margin-right:480px;}
+
+*/
+
+
+@charset "utf-8";
+#background1{width:1250px; height:799px; background-image:url(png/background-2.png); background-position:top center; margin: 0 auto; display:block;}
+
+#header1{width:1250px; height:124px; float:left; background-image:url(png/header-1.png);}
+/* page  */
+#a99z{width:1022px; height:593px; float:left; background-image:url(png/zxzxa.png); margin-left:114px; margin-top:50px;}
+#az98z{width:510px; height:500px; float:left; margin-top:60px; margin-left:10px; }
+
+#a97z{width:420px; height:200px; float:right; margin-top:32px; margin-right:30px;}
+#a96z{width:420px; height:200px; float:right; margin-top:50px; margin-right:30px; background-color:#06F;}
+#a95z{width:510px; height:35px; float:left;}
+#a94z{width:510px; height:465px; float:left;}
+#a93z{width:482px; height:48px; float:left; margin-top:10px; background-color:#0F0;}
+#zxa{width:350px; height:100px; float:right; margin-top:30px; margin-right:100px;}
+#zxa1{width:286px; height:48px; float:left; margin-left:40px;}
+#zxa11{background-image:url(png/btnl1.png);}
+#zxa11:hover{background-image:url(png/btnl1z.png);}
+
+/* 01*/
+
+
+#a99z{width:1022px; height:593px; float:left; background-image:url(png/zxzxa.png); margin-left:114px; margin-top:50px;}
+#azz98z{width:510px; height:500px; float:left; margin-top:60px; margin-left:20px;}
+
+#a97z{width:420px; height:250px; float:right; margin-top:180px; margin-right:35px;}
+#a96z{width:420px; height:200px; float:right; margin-top:50px; margin-right:30px; background-color:#06F;}
+#azz95z{width:510px; height:35px; float:left;}
+#azz94z{width:510px; height:465px; float:left;}
+#a93z{width:482px; height:48px; float:left; margin-top:10px; background-color:#0F0;}
+
+#a91zxxx1{ margin-left:150px; margin-top:4px;  background-image:url(png/next1.png);}
+#a91zxxx1:hover{background-image:url(png/next2.png);}
+
+

@@ -1,0 +1,217 @@
+@charset "utf-8";
+/* CSS Document */
+#bgimg1{width:1250px; height:799px; background-image:url(png/bg.png); background-position:top center; margin: 0 auto; display:none;}
+#cnt11{width:669px; height:384px; margin-top:210px; margin-left:297px; background-image:url(png/cnt1.png); float:left;}
+#c11{width:669px; height:85px; float:left;}
+#c21{width:669px; height:22px; float:left;}
+#c31{width:669px; height:56px; float:left;}
+#c41{width:669px; height:56px; float:left;}
+#c51{width:669px; height:56px; float:left;}
+#c61{width:669px; height:44px; float:left;}
+#cc0z{width:118px; height:56px; float:left;}
+#cc11{width:118px; height:56px; float:left;}
+#cc21{width:118px; height:56px; float:left;}
+#cc31{width:118px; height:44px; float:left;}
+#cc001{width:551px; height:56px; float:right;}
+
+	#q1z{width:168px; height:56px; float:left; }
+	#q2z{width:86px; height:56px; float:left; }
+	#q31{width:57px; height:56px; float:left; }
+	#q41{width:91px; height:56px; float:left; }
+	#q51{width:375px; height:22px; float:left; margin-left:284px;}
+
+
+	#q011{width:168px; height:56px; float:left; }
+	#q021{width:86px; height:56px; float:left; }
+	#q031{width:57px; height:56px; float:left; }
+	#q041{width:91px; height:56px; float:left; }
+	#q051{width:149px; height:56px; float:left;}
+
+	
+	#q111{width:168px; height:56px; float:left;}
+	#q121{width:86px; height:56px; float:left;}
+	#q131{width:57px; height:56px; float:left; }
+	#q141{width:91px; height:56px; float:left; }
+	#q151{width:149px; height:56px; float:left;}
+
+
+	#q211{width:168px; height:44px; float:left;}
+	#q221{width:86px; height:44px; float:left; }
+	#q231{width:57px; height:44px; float:left; }
+	#q241{width:91px; height:44px; float:left;}
+	#q251{width:149px; height:44px; float:left; }
+
+
+#cc011{width:551px; height:56px; float:right;}
+#cc021{width:551px; height:56px; float:right;}
+#cc031{width:551px; height:44px; float:right;}
+#txt11{ display:block; width:25px; height:25px; margi50px;n-left:22px; margin-top:10px; }
+#cz11{width:280px; height:85px; float:left;}
+#txt21{width:200px; height:30px; margin-top:50px; margin-left:75px; font-size:22px;;}
+#qqq1{width:380px; height:85px; float:right;}
+#x1{width:18px; height:17px; float:left; margin-left:80px; margin-top:25px;}
+#zx1{width:255px; height:85px; float:left;}
+#aa1{width:59px; height:56px; float:left;}
+#bb1{width:59px; height:56px; float:right;}
+#aaa1{width:59px; height:44px; float:left;}
+#bbb1{width:59px; height:44px; float:right;}
+#txt31{width:40px; height:25px; float:left; margin-left:9px; margin-top:8px;}
+#xzz{width:400px; height:35px; float:left; margin-top:5px; margin-left:225px;}
+#xz11{width:200px; height:35px; float:left;}
+#xz21{width:200px; float:right; height:35px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bgimg{width:1250px; height:799px; background-image:url(png/bg.png); background-position:top center; margin: 0 auto; display:none;}
+#cnt1{width:669px; height:384px; margin-top:210px; margin-left:297px; background-image:url(png/cnt1.png); float:left;}
+#c1{width:669px; height:85px; float:left;}
+#c2{width:375px; height:22px; float:left; margin-left:284px;}
+#c3{width:669px; height:56px; float:left;}
+#c4{width:669px; height:56px; float:left;}
+#c5{width:669px; height:56px; float:left;}
+#c6{width:669px; height:44px; float:left;}
+#cc0{width:118px; height:56px; float:left;}
+#cc1{width:118px; height:56px; float:left;}
+#cc2{width:118px; height:56px; float:left;}
+#cc3{width:118px; height:44px; float:left;}
+#cc00{width:551px; height:56px; float:right;}
+
+	#q1{width:168px; height:56px; float:left; }
+	#q2{width:86px; height:56px; float:left; }
+	#q3{width:57px; height:56px; float:left; }
+	#q4{width:91px; height:56px; float:left; }
+	#q5{width:100px; height:56px; float:left; }
+
+
+	#q01{width:168px; height:56px; float:left; }
+	#q02{width:86px; height:56px; float:left; }
+	#q03{width:57px; height:56px; float:left; }
+	#q04{width:91px; height:56px; float:left; }
+	#q05{width:149px; height:56px; float:left;}
+
+	
+	#q11{width:168px; height:56px; float:left;}
+	#q12{width:86px; height:56px; float:left;}
+	#q13{width:57px; height:56px; float:left; }
+	#q14{width:91px; height:56px; float:left; }
+	#q15{width:149px; height:56px; float:left;}
+
+
+	#q21{width:168px; height:44px; float:left;}
+	#q22{width:86px; height:44px; float:left; }
+	#q23{width:57px; height:44px; float:left; }
+	#q24{width:91px; height:44px; float:left;}
+	#q25{width:149px; height:44px; float:left; }
+
+
+#cc01{width:551px; height:56px; float:right;}
+#cc02{width:551px; height:56px; float:right;}
+#cc03{width:551px; height:44px; float:right;}
+#txt1{ display:block; width:25px; height:25px; margi50px;n-left:22px; margin-top:10px; }
+#cz1{width:280px; height:85px; float:left;}
+#txt2{width:200px; height:30px; margin-top:50px; margin-left:75px; font-size:22px;;}
+#qqq{width:380px; height:85px; float:right;}
+#x{width:18px; height:17px; float:left; margin-left:80px; margin-top:25px;}
+#zx{width:255px; height:85px; float:left;}
+#aa{width:59px; height:56px; float:left;}
+#bb{width:59px; height:56px; float:right;}
+#aaa{width:59px; height:44px; float:left;}
+#bbb{width:59px; height:44px; float:right;}
+#txt3{width:40px; height:25px; float:left; margin-left:9px; margin-top:8px;}
+#xz{width:400px; height:35px; float:left; margin-top:5px; margin-left:225px;}
+#xz1{width:200px; height:35px; float:left;}
+#xz2{width:200px; float:right; height:35px;}
+
+
+
+#background{
+	width:1250px; height:799px; background-image:url(png/background-2.png); background-position:top center; margin: 0 auto; display:block;
+	
+	
+	}
+
+#sub{
+    width: 845px;
+    height: 470px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 91px;
+	
+}
+#sub img {
+    display: block;
+    width: 845px;
+    height: 470px;
+    margin-top: 1px;
+	 margin-left: 120px;
+}
+#header1 img{
+    display: block;
+    width: 1000px;
+	
+}
+#subt img{
+    display: block;
+    height: 42px;
+    width: 212px;
+    margin-top: -460px;
+}
+
+
+
+#input input{
+    height:50px;
+    width:300px;
+    border-radius: 15px;
+	border-color:#000000;
+    background-color:#D5DDF7;
+    margin-left: 140px;
+    margin-top: 5px;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+#no input{
+    float:left;
+    border-radius: 15px;
+    background-color: transparent;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 23px;
+
+}
+#form{
+   margin-left: 750px;
+    margin-top: -42px;
+
+}
+
+#main{
+    background-image: url(png/cnt2z.png);
+    height: 330px;
+    width: 512px;
+    margin-left: 412px;
+    margin-top: 210px;
+
+}
+}
